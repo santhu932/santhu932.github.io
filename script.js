@@ -95,7 +95,7 @@ window.projects = [
       "Approximate Inference in Graphical Models"
     ],
     TeamSize: 1,
-    GithubLink: "",
+    GithubLink: "https://github.com/santhu932/Normalizing-Flows",
   },
 
   {
@@ -156,7 +156,7 @@ window.projects = [
     Skills: ["Data Structures: Stacks, Queues, Trees, Graphs, Linked lists, Arrays, Set", "Algorithms: Dynamic Programming, Backtracking, DFS, BFS, Binary Search, Sliding Window",],
     TeamSize: 1,
     GithubLink:
-      "",
+      "https://github.com/santhu932/DSA-Problems",
   },
 
   {
