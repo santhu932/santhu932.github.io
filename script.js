@@ -379,7 +379,7 @@ class MyHome extends HTMLElement {
             my research focuses on probabilistic deep learning forecasting models and its application in weather prediction.
           </p>
           <p>
-            I previously worked as an associate developer at <a href="https://www.ibm.com/">IBM</a>
+            I previously worked as a associate developer at <a href="https://www.ibm.com/">IBM</a>
             in Bengaluru, India, where I developed data retention policies for the Salesforce platform and implemented a custom churn prediction model adhering to industry standards. 
             Prior to that, I served as a research intern at the <a href="https://iisc.ac.in">Indian Institute of Science</a> under the guidance of <a target="_blank" href="https://scholar.google.co.in/citations?user=OftxRCEAAAAJ&hl=en">
             Prof. Raghu Krishnapuram</a>. During my internship, I focused on semantic segmentation, depth estimation, and visual odometry for autonomous navigation.
@@ -509,10 +509,11 @@ class MyExperience extends HTMLElement {
             <br>
             <section class="role-title">Associate Developer</section>
             <ul>
-              <li>Deployed a bespoke ML churn prediction model in Salesforce using XGBoost and Heroku Connect, outperforming Einstein AI and led to the
-              development of targeted retention strategies, enhancing predictive analytics by 13%.
+              <li>Developed and deployed an XGBoost-based churn prediction model using AWS SageMaker. Utilized AWS Glue for ETL processes and data
+              integration from Salesforce, enhancing predictive analytics by 13%.
               </li>
-              <li>Established a robust data management workflow for churn analysis, integrating automatic updates in Salesforce to leverage real-time insights.
+              <li>Conducted comparative experiments on XGBoost and Random Forest algorithms to assess model accuracy and robustness, selecting XGBoost
+              for deployment due to its higher efficiency and scalability in churn prediction.
               </li>
               <li>Developed a secure data retention policy to protect production data, leveraging SQL for effective data handling and compliance, minimizing
               unauthorized access risks.
