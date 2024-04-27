@@ -380,7 +380,7 @@ class MyHome extends HTMLElement {
           </p>
           <p>
             I previously worked as an associate developer at <a href="https://www.ibm.com/">IBM</a>
-            in Bangaluru, India, where I developed data retention policies for the Salesforce platform and implemented a custom churn prediction model adhering to industry standards. 
+            in Bengaluru, India, where I developed data retention policies for the Salesforce platform and implemented a custom churn prediction model adhering to industry standards. 
             Prior to that, I served as a research intern at the <a href="https://iisc.ac.in">Indian Institute of Science</a> under the guidance of <a target="_blank" href="https://scholar.google.co.in/citations?user=OftxRCEAAAAJ&hl=en">
             Prof. Raghu Krishnapuram</a>. During my internship, I focused on semantic segmentation, depth estimation, and visual odometry for autonomous navigation.
           </p>
