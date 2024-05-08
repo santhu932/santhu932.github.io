@@ -6,20 +6,21 @@ window.projects = [
       "<ul class='project-ul'><li>Implemented a simple MLP neural network for uncertainty estimation via Monte Carlo Droput, utilizing dropout layers to sample from the predictive distribution of the model.</li>\
       <li>Parallel computation of multiple samples on multi-GPU using Pytorch multiprocessing and DDP libraries.</li></ul>",
     Year: "2024",
-    Date: "Feb 21, 2024",
+    Date: "Mar 17, 2024",
     Skills: ["Python", "Pytorch", "Multiprocessing", "Distributed Data Parallel", "Uncertainty Estimation", "MC Dropout", "Ensembles",],
     TeamSize: 1,
     GithubLink: "https://medium.com/@santhoshpatil932/scaling-inference-with-multi-gpu-architectures-a-deep-dive-into-uncertainty-estimation-0008ae7a106a",
   },
 
   {
-    Title: "NLP-Driven Market Sentiment & Valuation Analysis",
+    Title: "Llama Finance Assistant",
     Description:
-      "<ul class='project-ul'><li>Developed a sophisticated NLP pipeline with Amazon SageMaker, Hugging Face, Pegasus for summarization, and FinBERT for sentiment analysis, enhancing market sentiment and company valuation insights from SEC filings and financial news.</li>\
-      <li>End-to-end machine learning workflows with CI/CD integration, including data preprocessing, model training, and deployment, leveraging SageMaker Pipelines for efficient, scalable, and automated ML operations.</li></ul>",
+      "<ul class='project-ul'><li>Developed a RAG engine using Llama 2 for efficient question answering, summarization, and analysis of a 300-page annual financial report.</li>\
+      <li>Refined retrieval efficiency using Llama Index, Hugging Face and LangChain embeddings for prompt management and document embedding.</li>\
+      <li>Deployed the application on RunPod, utilizing Streamlit for web interface creation, enabling real-time interaction and data visualization.</li></ul>",
     Year: "2024",
     Date: "Feb 21, 2024",
-    Skills: ["Python", "AWS", "AWS SageMaker", "Hugging Face", "Docker", "CI/CD", "NLP", "Sentiment Analysis", "MLOps",],
+    Skills: ["Pytorch", "LLM-Llama2", "Hugging Face", "LangChain", "RAG", "Streamlit", "RunPod",],
     TeamSize: 1,
     GithubLink: "",
   },
@@ -56,6 +57,17 @@ window.projects = [
     GithubLink: "https://github.com/santhu932/Stock-Market-Prediction-using-NLP",
   },
 
+  {
+    Title: "NLP-Driven Market Sentiment & Valuation Analysis",
+    Description:
+      "<ul class='project-ul'><li>Developed a sophisticated NLP pipeline with Amazon SageMaker, Hugging Face, Pegasus for summarization, and FinBERT for sentiment analysis, enhancing market sentiment and company valuation insights from SEC filings and financial news.</li>\
+      <li>End-to-end machine learning workflows with CI/CD integration, including data preprocessing, model training, and deployment, leveraging SageMaker Pipelines for efficient, scalable, and automated ML operations.</li></ul>",
+    Year: "2024",
+    Date: "Sept 15, 2023",
+    Skills: ["Python", "AWS", "AWS SageMaker", "Hugging Face", "Docker", "CI/CD", "NLP", "Sentiment Analysis", "MLOps",],
+    TeamSize: 1,
+    GithubLink: "",
+  },
   
   {
     Title: "Embedded Topic Modeling (ETM)",
@@ -526,7 +538,7 @@ class MyExperience extends HTMLElement {
       <div id="internships">
         <section class="experience-title">Internships</section>
         <section class="company-title" id="iisc-internship">Robert Bosch Centre for Cyber Physical Systems, Indian Institute of Science</section>
-        Oct 2019 - Jun 2020
+        Oct 2019 - Dec 2020
         <br>
         <br>
         <section class="role-title">Research Intern: Prof. Raghu Krishnapuram</section>
