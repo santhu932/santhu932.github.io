@@ -62,7 +62,7 @@ window.projects = [
     Description:
       "<ul class='project-ul'><li>Developed a sophisticated NLP pipeline with Amazon SageMaker, Hugging Face, Pegasus for summarization, and FinBERT for sentiment analysis, enhancing market sentiment and company valuation insights from SEC filings and financial news.</li>\
       <li>End-to-end machine learning workflows with CI/CD integration, including data preprocessing, model training, and deployment, leveraging SageMaker Pipelines for efficient, scalable, and automated ML operations.</li></ul>",
-    Year: "2024",
+    Year: "2023",
     Date: "Sept 15, 2023",
     Skills: ["Python", "AWS", "AWS SageMaker", "Hugging Face", "Docker", "CI/CD", "NLP", "Sentiment Analysis", "MLOps",],
     TeamSize: 1,
