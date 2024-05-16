@@ -511,7 +511,7 @@ class MyExperience extends HTMLElement {
         <div class="company" id="ibm">
           <div>
             <section class="company-title">IBM</section>
-            Jan 2021 - June 2022
+            Jul 2020 - June 2022
             <br>
             <br>
             G2 Blook
@@ -538,7 +538,7 @@ class MyExperience extends HTMLElement {
       <div id="internships">
         <section class="experience-title">Internships</section>
         <section class="company-title" id="iisc-internship">Robert Bosch Centre for Cyber Physical Systems, Indian Institute of Science</section>
-        Oct 2019 - Dec 2020
+        Oct 2019 - Jun 2020
         <br>
         <br>
         <section class="role-title">Research Intern: Prof. Raghu Krishnapuram</section>
